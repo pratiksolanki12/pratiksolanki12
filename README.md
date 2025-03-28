@@ -1,16 +1,24 @@
-## Hi there 👋 i am Pratik solanki
+# Hi <img src="https://media.tenor.com/CU-PX1m0egYAAAAC/wave-hi.gif" width="40" height="40" alt="Wave Hi"> there, I'm Pratik Solanki
 
-<!--
-**pratiksolanki12/pratiksolanki12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion for building dynamic and responsive web applications. I love to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## <img src="https://media.tenor.com/QhRvvwpCdVoAAAAi/rocket.gif" width="50" height="50" alt="Rocket GIF" style="margin-top: 10px;"> Technologies & Tools
+  - **Frontend:**
+    - React.js
+    - HTML5
+    - CSS3
+    - JavaScript (ES6+)
+ - **Backend:**       
+    - Node.js
+    - Express.js
+    - MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - **Other Tools:**
+    - Git & GitHub
+    - Postman
+    - Visual Studio Code
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/priteshsolanki226/)(https://www.linkedin.com/in/priteshsolanki226/)
+- Email: solankipritesh226@gmail.com
