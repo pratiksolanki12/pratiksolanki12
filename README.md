@@ -1,7 +1,7 @@
 # Hi <img src="https://media.tenor.com/CU-PX1m0egYAAAAC/wave-hi.gif" width="40" height="40" alt="Wave Hi"> there, I'm Pratik Solanki
 
 ## 👨‍💻 About Me
-I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion for building dynamic and responsive web applications. I love to learn new technologies and improve my skills.
+I'm a passionate MERN Stack Developer with a knack for building dynamic and responsive web applications. I love turning ideas into reality using JavaScript technologies and creating seamless user experiences.
 
 ## <img src="https://media.tenor.com/QhRvvwpCdVoAAAAi/rocket.gif" width="50" height="50" alt="Rocket GIF" style="margin-top: 10px;"> Technologies & Tools
   - **Frontend:**
