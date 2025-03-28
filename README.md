@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 i am Pratik solanki
 
 <!--
 **pratiksolanki12/pratiksolanki12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
