@@ -20,5 +20,5 @@ I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion fo
     - Visual Studio Code
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/priteshsolanki226/)(https://www.linkedin.com/in/priteshsolanki226/)
+- [LinkedIn]((https://www.linkedin.com/in/pratik-solanki-827758320/))((https://www.linkedin.com/in/pratik-solanki-827758320/))
 - Email: solankipritesh226@gmail.com
