@@ -25,3 +25,4 @@ I'm a passionate MERN Stack Developer with a knack for building dynamic and resp
 
 
 # Thanks for visiting my profile!  <img src="https://img.freepik.com/premium-vector/anime-boy-character_961307-24273.jpg" alt="Anime Boy Character" width="110" height="110">
+
