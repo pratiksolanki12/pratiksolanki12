@@ -8,7 +8,9 @@ Passionate Web Developer || Creative UI/UX Designer || Lifelong Learner || focus
     - React.js
     - HTML5
     - CSS3
+    - Tailwind CSS
     - JavaScript (ES6+)
+    - -Next.JS
  - **Backend:**       
     - Node.js
     - Express.js
@@ -18,6 +20,10 @@ Passionate Web Developer || Creative UI/UX Designer || Lifelong Learner || focus
     - Git & GitHub
     - Postman
     - Visual Studio Code
+    - Redux
+ - **Programing Langauges: **
+    - c & c++
+    - Javascript
 
 ## 📫 How to reach me
 - [LinkedIn]((https://www.linkedin.com/in/pratik-solanki-827758320/))((https://www.linkedin.com/in/pratik-solanki-827758320/))
