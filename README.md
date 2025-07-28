@@ -1,7 +1,7 @@
 # Hi <img src="https://media.tenor.com/CU-PX1m0egYAAAAC/wave-hi.gif" width="40" height="40" alt="Wave Hi"> there, I'm Pratik Solanki
 
 ## 👨‍💻 About Me
-I'm a passionate MERN Stack Developer with a knack for building dynamic and responsive web applications. I love turning ideas into reality using JavaScript technologies and creating seamless user experiences.
+Passionate Web Developer || Creative UI/UX Designer || Lifelong Learner || focused on problem solving || Turning Ideas into Interactive Experiences 
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjE0ZDUwNDE0ZTA4ODc5ZDMxODE1YzcyYjNmYzc4NWYyODMyODAyMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/783NmUTodhiUZnmyYy/giphy.gif" alt="Animated GIF" width="60" height="60"> Technologies & Tools
   - **Frontend:**
