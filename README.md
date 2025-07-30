@@ -1,4 +1,4 @@
-# Hi <img src="https://media.tenor.com/CU-PX1m0egYAAAAC/wave-hi.gif" width="40" height="40" alt="Wave Hi"> there, I'm Pratik Solanki
+# Hi  there, I'm Pratik Solanki
 
 ## 👨‍💻 About Me
 Passionate Web Developer || Creative UI/UX Designer || Lifelong Learner || focused on problem solving || Turning Ideas into Interactive Experiences 
