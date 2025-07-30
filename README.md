@@ -1,8 +1,7 @@
 # Hi  there, I'm Pratik Solanki
 
 ## 👨‍💻 About Me
-Passionate Web Developer || Creative UI/UX Designer || Lifelong Learner || focused on problem solving || Turning Ideas into Interactive Experiences 
-
+I am a MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion for building dynamic and responsive web applications. I love to learn new technologies and improve my skills.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pritesh_x07_) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solankipritesh226@gmail.com) 
 
