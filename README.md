@@ -27,6 +27,18 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+---
+## 🟡 Pacman Contribution Graph :
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratiksolanki12/pratiksolanki12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratiksolanki12/pratiksolanki12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pratiksolanki12/pratiksolanki12/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 # Thanks for visiting my profile!  <img src="https://img.freepik.com/premium-vector/anime-boy-character_961307-24273.jpg" alt="Anime Boy Character" width="110" height="110">
 
 
