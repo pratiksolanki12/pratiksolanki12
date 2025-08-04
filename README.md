@@ -22,7 +22,7 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=pratiksolanki12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
