@@ -7,7 +7,7 @@ Hi there! I'm a MERN (MongoDB, Express.js, React.js, Node.js) developer who enjo
 
 🔧 Focused on writing clean, efficient, and maintainable code 🧩 Actively practicing DSA to improve coding logic and efficiency 🌐 Enthusiastic about modern web technologies and backend systems 📚 Always learning, building, and contributing to open source 
 ## 🌐 Socials: 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pritesh_x07_) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solankipritesh226@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratik_x23_) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solankipritesh226@gmail.com) 
 
 
 # <img src="https://media.tenor.com/QhRvvwpCdVoAAAAi/rocket.gif" width="50" height="50" alt="Rocket GIF" style="margin-top: 10px;"> Technologies & Tools
