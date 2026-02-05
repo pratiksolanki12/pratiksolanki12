@@ -1,3 +1,6 @@
+
+<img width="1536" height="397" alt="pratik linkdin banner" src="https://github.com/user-attachments/assets/4188d070-b55b-45d0-a247-bdf1e27b9758" />
+
 <h1 align="center">Hi 👋, I'm pratik solanki</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
